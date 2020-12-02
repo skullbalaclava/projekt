@@ -1,7 +1,5 @@
-<h1> <b> ("DatorBygge") </b> </h1>
-
-# projekt
-<hmtl>
+<!DOCTYPE html>
+<html>
    <head>
 "welcome to my webbside"
    </head>
@@ -15,5 +13,5 @@
 <a href="https://skullbalaclava.github.io/projekt/">drogger </a>
 
 
-</hmtl>
+</html>
 
