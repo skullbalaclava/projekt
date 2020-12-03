@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(1, 7, 29);
+  }
+  h1 {
+    color: rgb(255, 253, 253);
+  }
+  p {
+    color: rgb(255, 255, 255);
+  }
+
+  code {
+    font-family: monospace;
+  }
+
+
+  <html>
+  <head>
+  <style>
+  kbd {
+    border-radius: 2px;
+    padding: 2px;
+    border: 1px solid black;
+  }
+
+  </style>
+  </head>
+  <body>
+  
+  <p>Press <kbd>Ctrl</kbd> + <kbd>C</kbd> to copy text (Windows).</p>
+  <p>Press <kbd>Cmd</kbd> + <kbd>C</kbd> to copy text (Mac OS).</p>
+  
+  </body>
+  </html>
+  
+  
